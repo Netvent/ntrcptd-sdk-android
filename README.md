@@ -5,6 +5,7 @@
 The Interceptd SDK is available via:
 
 **JCenter AAR**
+    [ ![Download](https://api.bintray.com/packages/appsamurai/maven/analytics/images/download.svg) ](https://bintray.com/appsamurai/maven/analytics/_latestVersion)
     Interceptd SDK is available as an AAR via JCenter; to use it, add the following to your `build.gradle`.
 
    ``` java
@@ -14,7 +15,7 @@ The Interceptd SDK is available via:
 
    dependencies {
        // Be sure that you are using latest version
-       implementation 'com.ntrcptd:analytics:0.0.1'
+       implementation 'com.ntrcptd.sdk:analytics:0.0.2'
    }
    ```
 
