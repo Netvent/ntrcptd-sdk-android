@@ -15,7 +15,7 @@ The Interceptd SDK is available via:
 
    dependencies {
        // Be sure that you are using latest version
-       implementation 'com.ntrcptd.sdk:analytics:0.0.2'
+       implementation 'com.ntrcptd.sdk:analytics:<latest-version>'
    }
    ```
 
